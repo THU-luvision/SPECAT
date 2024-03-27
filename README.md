@@ -4,8 +4,7 @@ Tsinghua University
 ![test](https://github.com/THU-luvision/SPECAT/blob/main/images/SPECAT.jpg   'The structure of SPECAT')  
 SPECAT utilizes Cumulative-Attention Blocks (CABs) within an efficient hierarchical framework to extract features from non-local spatial-spectral details. Furthermore, it employs a projection-object Dual-domain Loss Function (DLF) to integrate the optical path constraint, a physical aspect often overlooked in current methodologies. Ultimately, SPECAT not only significantly enhances the reconstruction quality of spectral details but also breaks through the bottleneck of mutual restriction between the cost and accuracy in existing algorithms.
 
-https://github.com/THU-luvision/SPECAT/blob/main/Demo.mp4
-
+https://github.com/THU-luvision/SPECAT/assets/99186020/c5bea4c5-3edc-4905-b1cc-684f06b40346
 
 ## Project Description
 The SPECAT is mainly used for compressive spectral imaging systems based on optical filters (e.g. liquid crystal tunable filter-based HSI, metasurface HSI, Fabry-Pérot filters-based HSI), aiming to offer a reliable and effective reconstruction algorithm suitable for future on-chip HSI systems. This repository provides SPECAT model and its training and testing codes for applications in optical filter-based hyperspectral imaging systems.
